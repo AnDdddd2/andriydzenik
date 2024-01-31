@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <IncludeLinks Version="2" ExpirationTimeInDays="365" Data="20230517
+0:/Applications/Lazarus/components/lazutils/LazLoggerIntf.inc
+42:lazloggerbase.pas;0
+45:utils_defines.inc
+45:fileutils.pas;0
+22:lcl/include/controlconsts.inc
+26:controls.pp;0
+26:include/lcl_defines.inc
+26:widgetset/wslclclasses.pp;0
+"/>
+</CONFIG>

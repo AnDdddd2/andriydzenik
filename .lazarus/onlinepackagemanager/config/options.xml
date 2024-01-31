@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Version Value="1"/>
+  <General>
+    <RemoteRepository Value="http://packages.lazarus-ide.org/
+"/>
+    <CheckForUpdates Value="5"/>
+    <HintFormOptionColors Value="$00004646
+$002e4c35
+$00584327
+"/>
+  </General>
+  <Folders>
+    <LocalRepositoryPackages Value="/Users/andriydzenik/.lazarus/onlinepackagemanager/packages/"/>
+    <LocalRepositoryArchive Value="/Users/andriydzenik/.lazarus/onlinepackagemanager/archive/"/>
+    <LocalRepositoryUpdate Value="/Users/andriydzenik/.lazarus/onlinepackagemanager/update/"/>
+  </Folders>
+  <Profiles>
+    <ExcludedFiles Value="*.,*.a,*.o,*.ppu,*.compiled,*.bak,*.or,*.rsj,*.~,*.exe,*.dbg,*.zip,*.so,*.dll,*.dylib"/>
+    <ExcludedFolders Value="lib,backup,updates,compiled,.git,.svn,units"/>
+  </Profiles>
+</CONFIG>

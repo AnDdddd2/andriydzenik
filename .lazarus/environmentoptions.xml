@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <EnvironmentOptions>
+    <Version Value="110" Lazarus="2.2.0"/>
+    <LazarusDirectory Value="/Applications/Lazarus">
+      <History Count="1">
+        <Item1 Value="/Applications/Lazarus/"/>
+      </History>
+    </LazarusDirectory>
+    <CompilerFilename Value="/usr/local/bin/fpc">
+      <History Count="3">
+        <Item1 Value="/usr/local/bin/fpc"/>
+        <Item2 Value="/usr/bin/fpc"/>
+        <Item3 Value="/opt/fpc/fpc"/>
+      </History>
+    </CompilerFilename>
+    <FPCSourceDirectory Value="/usr/local/share/fpcsrc//">
+      <History Count="1">
+        <Item1 Value="/usr/local/share/fpcsrc//"/>
+      </History>
+    </FPCSourceDirectory>
+    <MakeFilename>
+      <History Count="1">
+        <Item1 Value="/usr/bin/make"/>
+      </History>
+    </MakeFilename>
+    <TestBuildDirectory Value="~/tmp/">
+      <History Count="3">
+        <Item1 Value="/tmp/"/>
+        <Item2 Value="/var/tmp/"/>
+        <Item3 Value="$ENV(TMPDIR)"/>
+      </History>
+    </TestBuildDirectory>
+    <Debugger Class="TGDBMIDebugger">
+      <ClassTGDBMIDebugger>
+        <Config ConfigClass="TGDBMIDebugger" Active="True" UID="{489131B4-A768-06C7-F957-75BCAC947B75}"/>
+      </ClassTGDBMIDebugger>
+      <WatchesDlg ColumnNameWidth="-1" ColumnValueWidth="-1"/>
+      <CallStackDlg ViewCount="0"/>
+    </Debugger>
+    <FormEditor>
+      <Rubberband>
+        <SelectionColor Value="8388608"/>
+        <CreationColor Value="128"/>
+      </Rubberband>
+    </FormEditor>
+    <Recent AlreadyPopulated="True"/>
+    <ExternalTools Version="3"/>
+    <LastCalledByLazarusFullPath Value="/Applications/Lazarus/lazarus"/>
+  </EnvironmentOptions>
+  <ObjectInspectorOptions ShowHints="False" InfoBoxHeight="50">
+    <Version Value="3"/>
+  </ObjectInspectorOptions>
+  <Desktops Count="1" ActiveDesktop="default">
+    <Desktop1 Name="default">
+      <Desktop Version="2" FormIdCount="31">
+        <FormIdList a1="MainIDE" a2="ObjectInspectorDlg" a3="Watches" a4="BreakPoints" a5="Locals" a6="CallStack" a7="EvaluateModify" a8="Registers" a9="Assembler" a10="DbgOutput" a11="Inspect" a12="DbgEvents" a13="PseudoTerminal" a14="Threads" a15="DbgHistory" a16="SourceNotebook" a17="MessagesView" a18="UnitDependencies" a19="CodeExplorerView" a20="FPDocEditor" a21="ClipBrdHistory" a22="PkgGraphExplorer" a23="ProjectInspector" a24="EditorFileManager" a25="SearchResults" a26="AnchorEditor" a27="TabOrderEditor" a28="CodeBrowser" a29="IssueBrowser" a30="JumpHistory" a31="ComponentList"/>
+      </Desktop>
+      <MainIDE>
+        <Caption Value="MainIDE"/>
+        <CustomPosition Top="25" Width="1366" Height="58"/>
+        <Visible Value="True"/>
+      </MainIDE>
+      <ObjectInspectorDlg>
+        <Caption Value="ObjectInspectorDlg"/>
+        <CustomPosition Top="112" Width="230" Height="497"/>
+        <Visible Value="True"/>
+      </ObjectInspectorDlg>
+      <Watches>
+        <Caption Value="Watches"/>
+      </Watches>
+      <BreakPoints>
+        <Caption Value="BreakPoints"/>
+      </BreakPoints>
+      <Locals>
+        <Caption Value="Locals"/>
+      </Locals>
+      <CallStack>
+        <Caption Value="CallStack"/>
+      </CallStack>
+      <EvaluateModify>
+        <Caption Value="EvaluateModify"/>
+      </EvaluateModify>
+      <Registers>
+        <Caption Value="Registers"/>
+      </Registers>
+      <Assembler>
+        <Caption Value="Assembler"/>
+      </Assembler>
+      <DbgOutput>
+        <Caption Value="DbgOutput"/>
+      </DbgOutput>
+      <Inspect>
+        <Caption Value="Inspect"/>
+      </Inspect>
+      <DbgEvents>
+        <Caption Value="DbgEvents"/>
+      </DbgEvents>
+      <PseudoTerminal>
+        <Caption Value="PseudoTerminal"/>
+      </PseudoTerminal>
+      <Threads>
+        <Caption Value="Threads"/>
+      </Threads>
+      <DbgHistory>
+        <Caption Value="DbgHistory"/>
+      </DbgHistory>
+      <SourceNotebook>
+        <Caption Value="SourceNotebook"/>
+        <CustomPosition Left="231" Top="112" Width="1101" Height="347"/>
+      </SourceNotebook>
+      <MessagesView>
+        <Caption Value="MessagesView"/>
+      </MessagesView>
+      <UnitDependencies>
+        <Caption Value="UnitDependencies"/>
+      </UnitDependencies>
+      <CodeExplorerView>
+        <Caption Value="CodeExplorerView"/>
+      </CodeExplorerView>
+      <FPDocEditor>
+        <Caption Value="FPDocEditor"/>
+      </FPDocEditor>
+      <ClipBrdHistory>
+        <Caption Value="ClipBrdHistory"/>
+      </ClipBrdHistory>
+      <PkgGraphExplorer>
+        <Caption Value="PkgGraphExplorer"/>
+      </PkgGraphExplorer>
+      <ProjectInspector>
+        <Caption Value="ProjectInspector"/>
+      </ProjectInspector>
+      <EditorFileManager>
+        <Caption Value="EditorFileManager"/>
+      </EditorFileManager>
+      <SearchResults>
+        <Caption Value="SearchResults"/>
+      </SearchResults>
+      <AnchorEditor>
+        <Caption Value="AnchorEditor"/>
+      </AnchorEditor>
+      <TabOrderEditor>
+        <Caption Value="TabOrderEditor"/>
+      </TabOrderEditor>
+      <CodeBrowser>
+        <Caption Value="CodeBrowser"/>
+      </CodeBrowser>
+      <IssueBrowser>
+        <Caption Value="IssueBrowser"/>
+      </IssueBrowser>
+      <JumpHistory>
+        <Caption Value="JumpHistory"/>
+      </JumpHistory>
+      <ComponentList>
+        <Caption Value="ComponentList"/>
+      </ComponentList>
+      <Dialogs Count="1">
+        <Dialog1>
+          <Name Value="TLazFindReplaceDialog"/>
+          <Size Width="0" Height="0"/>
+        </Dialog1>
+      </Dialogs>
+      <CompletionWindowOptions>
+        <Width Value="320"/>
+      </CompletionWindowOptions>
+      <IDECoolBarOptions>
+        <Width Value="230"/>
+      </IDECoolBarOptions>
+      <EditorToolBarOptions Version="1" Count="4">
+        <Button1 Name="Jump to Implementation"/>
+        <Button2 Name="Jump back"/>
+        <Button3 Name="Jump forward"/>
+        <Button4 Name="---------------"/>
+      </EditorToolBarOptions>
+      <ObjectInspectorOptions>
+        <SplitterX>
+          <PropertyPage Value="110"/>
+          <EventPage Value="110"/>
+          <FavoritePage Value="110"/>
+          <RestrictedPage Value="110"/>
+        </SplitterX>
+        <ComponentTree>
+          <Height Value="160"/>
+        </ComponentTree>
+        <InfoBox>
+          <Height Value="50"/>
+        </InfoBox>
+      </ObjectInspectorOptions>
+    </Desktop1>
+  </Desktops>
+</CONFIG>

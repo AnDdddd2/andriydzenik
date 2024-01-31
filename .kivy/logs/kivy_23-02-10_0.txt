@@ -1,0 +1,29 @@
+[INFO   ] Logger: Record log in /Users/andriydzenik/.kivy/logs/kivy_23-02-10_0.txt
+[DEBUG  ] Config: Upgrading from 0 to 1
+[WARNING] Config: Upgrading configuration in progress.
+[WARNING] Config: Older configuration version detected (0 instead of 25)
+[INFO   ] Kivy: v2.2.0.dev0
+[INFO   ] Kivy: Installed at "/private/var/folders/s6/v3hbpwkx6yzfdtc3qvy8_chc0000gn/T/pip-install-rdckv20y/kivy_17217c288baa4bd780e160b2cdfe9aba/kivy/__init__.py"
+[INFO   ] Python: v3.8.9 (default, Oct 26 2021, 07:25:54) 
+[Clang 13.0.0 (clang-1300.0.29.30)]
+[INFO   ] Python: Interpreter at "/Library/Developer/CommandLineTools/usr/bin/python3"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[WARNING] stderr: <string>:370: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+[WARNING] stderr: <string>:373: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+[WARNING] stderr: <string>:377: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+[INFO   ] running egg_info
+[INFO   ] creating Kivy.egg-info
+[INFO   ] writing Kivy.egg-info/PKG-INFO
+[INFO   ] writing dependency_links to Kivy.egg-info/dependency_links.txt
+[INFO   ] writing requirements to Kivy.egg-info/requires.txt
+[INFO   ] writing top-level names to Kivy.egg-info/top_level.txt
+[INFO   ] writing manifest file 'Kivy.egg-info/SOURCES.txt'
+[INFO   ] reading manifest file 'Kivy.egg-info/SOURCES.txt'
+[INFO   ] reading manifest template 'MANIFEST.in'
+[WARNING] warning: no files found matching '*.txt' under directory 'kivy/tools'
+[WARNING] warning: no files found matching '*.bat' under directory 'kivy/tools'
+[WARNING] warning: no files found matching '*.pyd' under directory 'kivy'
+[INFO   ] adding license file 'LICENSE'
+[INFO   ] adding license file 'AUTHORS'
+[INFO   ] writing manifest file 'Kivy.egg-info/SOURCES.txt'

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <EditorOptions Version="13">
+    <Misc>
+      <ScrollOnEditLeftOptions KeepBorderDistance="2" KeepBorderDistancePercent="0" ScrollExtraColumns="5" ScrollExtraPercent="20" ScrollExtraMax="10"/>
+      <ScrollOnEditRightOptions KeepBorderDistance="0" KeepBorderDistancePercent="0" ScrollExtraColumns="10" ScrollExtraPercent="30" ScrollExtraMax="25"/>
+    </Misc>
+    <Display DoNotWarnForFont="Andale Mono"/>
+    <KeyMapping>
+      <default>
+        <Version Value="6"/>
+      </default>
+    </KeyMapping>
+    <CodeTools CodeTemplateFileName="/Users/andriydzenik/.lazarus/lazarus.dci" CompletionLongLineHintTypeCompletionLongLineHintType="sclpExtendRightOnly"/>
+    <Mouse>
+      <Default Version="1"/>
+    </Mouse>
+    <Color Version="13"/>
+  </EditorOptions>
+</CONFIG>
